@@ -1,0 +1,40 @@
+C:\Users\gamin\OneDrive\Documents\protfolio\Mark-XXXIX-OR-main\actions\file_processor.py:28: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+qt.qpa.window: SetProcessDpiAwarenessContext() failed: Access is denied.
+Qt's default DPI awareness context is DPI_AWARENESS_CONTEXT_PER_MONITOR_AWARE_V2. If you know what you are doing, you can overwrite this default using qt.conf (https://doc.qt.io/qt-6/highdpi.html#configuring-windows).
+Warning: there are non-data parts in the response: ['text', 'thought'], returning concatenated data result from data parts, check out the non data parts for full response from model.
+INFO:openrouter_client:[OpenRouter] Trying: nvidia/nemotron-3-super-120b-a12b:free
+qt.text.font.db: OpenType support missing for "Courier New", script 17
+qt.text.font.db: OpenType support missing for "Tahoma", script 17
+qt.text.font.db: OpenType support missing for "Arial", script 17
+qt.text.font.db: OpenType support missing for "MS UI Gothic", script 17
+qt.text.font.db: OpenType support missing for "SimSun", script 17
+qt.text.font.db: OpenType support missing for "Segoe UI Emoji", script 17
+qt.text.font.db: OpenType support missing for "Segoe UI Symbol", script 17
+INFO:openrouter_client:[OpenRouter] ✓ Success: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] Trying: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] Trying: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] ✓ Success: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] ✓ Success: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] Trying: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] ✓ Success: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] Trying: nvidia/nemotron-3-super-120b-a12b:free
+qt.text.font.db: OpenType support missing for "Courier New", script 11
+qt.text.font.db: OpenType support missing for "Tahoma", script 11
+qt.text.font.db: OpenType support missing for "Arial", script 11
+qt.text.font.db: OpenType support missing for "MS UI Gothic", script 11
+qt.text.font.db: OpenType support missing for "SimSun", script 11
+qt.text.font.db: OpenType support missing for "Segoe UI Emoji", script 11
+qt.text.font.db: OpenType support missing for "Segoe UI Symbol", script 11
+INFO:openrouter_client:[OpenRouter] ✓ Success: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] Trying: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] ✓ Success: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] Trying: nvidia/nemotron-3-super-120b-a12b:free
+INFO:openrouter_client:[OpenRouter] ✓ Success: nvidia/nemotron-3-super-120b-a12b:free

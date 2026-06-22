@@ -1,0 +1,68 @@
+REVO OS project tree: C:\Users\gamin\OneDrive\Documents\revo os\Revo-OS-main
+
+.gitignore
+actions/
+  ai_brain.py
+  browser_control.py
+  code_helper.py
+  command_learning.py
+  computer_control.py
+  computer_settings.py
+  desktop.py
+  dev_agent.py
+  emotional_companion.py
+  file_controller.py
+  file_processor.py
+  flight_finder.py
+  game_updater.py
+  job_mode.py
+  media_download.py
+  memory_system.py
+  open_app.py
+  pc_health.py
+  reminder.py
+  routine_assistant.py
+  safe_shopping.py
+  screen_processor.py
+  security_mode.py
+  send_message.py
+  smart_modes.py
+  weather_report.py
+  web_search.py
+  youtube_video.py
+agent/
+  error_handler.py
+  executor.py
+  planner.py
+  task_queue.py
+config/
+  __init__.py
+  api_keys.example.json
+  goals.example.json
+  personal_shortcuts.example.json
+  user_profile.example.json
+core/
+  creator_identity.py
+  prompt.txt
+export_project_tree.py
+GITHUB_SETUP.md
+INSTALL.md
+install_windows.bat
+install_windows.ps1
+main.py
+memory/
+  __init__.py
+  config_manager.py
+  memory_manager.py
+or_client.py
+PRIVACY_RELEASE.md
+readme.md
+RELEASE_CHECKLIST.md
+requirements.txt
+revo_doctor.py
+RUN_PROCESS.md
+scripts/
+  prepare_github_release.py
+setup.py
+start_revo.bat
+ui.py

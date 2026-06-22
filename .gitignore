@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local secrets and user config
+config/api_keys.json
+config/*_state.json
+config/emotion_memory.json
+config/mood_logs.json
+config/checkin_history.json
+config/learned_commands.json
+config/personal_shortcuts.json
+memory/long_term.json
+memory/memory.json
+
+# Runtime data
+logs/
+runtime/
+*.log
+*.err.log
+revo-os-run.log
+revo-os-run.err.log
+jarvis-run.log
+jarvis-run.err.log
+
+# Browser/automation profiles
+runtime/edge_chatgpt_profile/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Media/download outputs
+Downloads/
+REVO_OS_Media/
+
+# Public release safety: ignore all local JSON config except safe examples
+config/*.json
+!config/*.example.json
+!config/api_keys.example.json
+!config/personal_shortcuts.example.json
+!config/user_profile.example.json
+!config/goals.example.json
+
+# Never publish generated browser profiles, screenshots, logs, memories, caches
+runtime/**
+logs/**
+memory/*.json
+**/__pycache__/**
+*.pyc
+*.pyo
+*.log
+*.err.log
