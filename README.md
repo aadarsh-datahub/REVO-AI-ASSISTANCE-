@@ -112,7 +112,7 @@ The public GitHub export excludes private files such as API keys, local user pro
 ### 1. Clone the Repository
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/REVO-OS.git
+git clone https://github.com/aadarsh-datahub/REVO-OS.git
 cd REVO-OS
 ```
 
